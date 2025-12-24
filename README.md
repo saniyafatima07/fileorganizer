@@ -15,3 +15,17 @@ The program will scan the directory, classify files according to their extension
 - **Go**: Ensure you have [Go](https://golang.org/dl/) installed on your system. You can check if Go is installed by running:
   ```bash
   go version
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
